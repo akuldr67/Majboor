@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MedHelp</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome to MedHelp!</string>
+    <string name="slide_1_desc">MedHelp is a platform to provide mediate medical assistance by the people around you..</string>
+
+    <string name="slide_2_title">Medical + Android</string>
+    <string name="slide_2_desc">Seek Help, Give Help. And make world better place to live in..</string>
+
+</resources>
